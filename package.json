@@ -1,0 +1,17 @@
+{
+  "name": "mediaprocessing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "jsmediatags": "^3.9.7",
+    "music-metadata": "^7.11.4",
+    "music-metadata-browser": "^2.5.0"
+  }
+}
